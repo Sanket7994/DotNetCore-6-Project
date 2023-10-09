@@ -1,0 +1,1 @@
+# DotNetCore6DemoProject
